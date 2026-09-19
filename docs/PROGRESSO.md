@@ -12,10 +12,10 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Planejado
 
-- Definir a arquitetura geral do veículo.
-- Escolher a arquitetura de tração e direção.
-- Elaborar o primeiro diagrama elétrico.
-- Criar a estrutura inicial do repositório.
+- Conhecer o projeto e reunir todas as pesquisas necessárias.
+- Definir as nossas metas e alinhá-las.
+- Preencher o cronograma.
+- Criar a estrutura inicial do repositório no GitHub.
 
 ## Concluído
 
