@@ -2,19 +2,19 @@
 
 ## Equipe
 
-**Nome da equipe:** Equipe XX  
-**Turma:** ____________________  
-**Professor técnico:** ____________________
+**Nome da equipe:** McQueens 
+**Turma:** Meca 3 Matutino
+**Professor técnico:** Arlindo Ricarte
 
 ### Integrantes e áreas de atuação
 
 | Integrante | Área principal | Responsabilidades |
 |---|---|---|
-| Nome 1 | Piloto e calibração | Testes de dirigibilidade, calibração e operação |
-| Nome 2 | Mecânica | Chassi, direção, transmissão e montagem |
-| Nome 3 | Projeto e documentação | Arquitetura, desenhos, organização da documentação |
-| Nome 4 | Eletrônica e integração elétrica | Alimentação, drivers, motores, sensores e conexões |
-| Nome 5 | Software e controle | Comunicação, controle, sensores e automação |
+| Felipe Matheus | Piloto e calibração | Testes de dirigibilidade, calibração e operação |
+| Ana Vitória | Mecânica | Chassi, direção, transmissão e montagem |
+| Jamily Gabriele | Projeto e documentação | Arquitetura, desenhos, organização da documentação |
+| Kaynara Lima | Eletrônica e integração elétrica | Alimentação, drivers, motores, sensores e conexões|
+| Maria Clara | Software e controle | Comunicação, controle, sensores e automação |
 
 > As áreas acima indicam a responsabilidade principal de cada integrante, mas o trabalho pode ser compartilhado entre a equipe.
 
