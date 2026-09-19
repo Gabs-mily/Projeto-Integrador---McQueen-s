@@ -16,6 +16,7 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 - Definir as nossas metas e alinhá-las.
 - Preencher o cronograma.
 - Criar a estrutura inicial do repositório no GitHub.
+- Solicitar o restante dos componentes na Colab.
 
 ## Concluído
 
