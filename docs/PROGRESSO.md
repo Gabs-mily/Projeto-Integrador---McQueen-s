@@ -20,25 +20,25 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Concluído
 
-- Arquitetura geral definida.
-- Definida tração com dois motores DC.
-- Criado diagrama elétrico inicial.
+- Pesquisas bibliográficas realizadas.
+- Metas definidas e alinhadas.
+- Cronograma preenchido e compartilhado via Class.
 - Repositório organizado com `README.md`, `PLANEJAMENTO.md` e `PROGRESSO.md`.
 - Componentes solicitados.
 
 ## Não concluído
 
-- Escolha definitiva das rodas e motores.
+- Arquitetura geral.
 
 ## Problemas ou impedimentos
 
-- Soldas dos cabos dos motores precisarão ser feitas.
-- Roda boba com dificuldades de encaixe no chassi
+- Dificuldade na criação dos arquivos do GitHub e organização das pastas. 
 
 ## Decisões técnicas da semana
 
-- A equipe decidiu comparar duas opções de driver antes da montagem definitiva.
+- Utilizar o Fusion como programa para a modelagem da parte externa do carrinho.
 - Foi decidido manter o ESP32 como controlador principal.
+- Solicitação de uma protoboard menor para melhor encaixe no chassi, balanceando também o peso 
 
 ## Testes realizados
 
@@ -60,9 +60,9 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Planejado
 
-- ____________________
-- ____________________
-- ____________________
+- Montagem física do carrinho
+- Testes dos componentes eletrônicos
+- 
 
 ## Concluído
 
@@ -71,15 +71,16 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Não concluído
 
-- ____________________
+- Escolha definitiva das rodas e motores.
 
 ## Problemas ou impedimentos
 
-- ____________________
+- Soldas dos cabos dos motores precisarão ser feitas.
+- Roda boba com dificuldades de encaixe no chassi
 
 ## Decisões técnicas da semana
 
-- ____________________
+- 
 
 ## Testes realizados
 
