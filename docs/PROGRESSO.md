@@ -24,14 +24,16 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 - Definida tração com dois motores DC.
 - Criado diagrama elétrico inicial.
 - Repositório organizado com `README.md`, `PLANEJAMENTO.md` e `PROGRESSO.md`.
+- Componentes solicitados.
 
 ## Não concluído
 
-- Escolha definitiva do driver de motores.
+- Escolha definitiva das rodas e motores.
 
 ## Problemas ou impedimentos
 
-- O driver inicialmente escolhido pode não suportar a corrente de partida dos motores.
+- Soldas dos cabos dos motores precisarão ser feitas.
+- Roda boba com dificuldades de encaixe no chassi
 
 ## Decisões técnicas da semana
 
