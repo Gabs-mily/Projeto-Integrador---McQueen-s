@@ -98,8 +98,7 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 # Semana 3 — 30/09/2026 a 06/10/2026
 
 ## Planejado
-
-- ____________________
+- Programação feita com os comandos essenciais para o funcionamento básico.
 
 ## Concluído
 
