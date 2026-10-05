@@ -98,11 +98,14 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 # Semana 3 — 30/09/2026 a 06/10/2026
 
 ## Planejado
-- Programação feita com os comandos essenciais para o funcionamento básico.
+- Programação feita com os comandos essenciais para o funcionamento básico do carrinho.
+- Conectar o Bluetooth do ESP32.
+- Criar/achar uma interface para o controle do carro.
 
 ## Concluído
 
-- ____________________
+- Conectar o Bluetooth do ESP32 com sucesso.
+- interface achada e testada(RemoteXY).
 
 ## Não concluído
 
@@ -110,11 +113,11 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Problemas ou impedimentos
 
-- ____________________
+- Dificuldades em achar uma interface boa.
 
 ## Decisões técnicas da semana
 
-- ____________________
+- Interface usada para testes futuros.
 
 ## Testes realizados
 
@@ -124,7 +127,7 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Próximas ações
 
-- ____________________
+- Integrar uma bateria ao circuito.
 
 ---
 
