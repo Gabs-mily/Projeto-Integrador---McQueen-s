@@ -99,13 +99,13 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Planejado
 - Programação feita com os comandos essenciais para o funcionamento básico do carrinho.
-- Conectar o Bluetooth do ESP32.
+- Conectar o Wi-fi do ESP32.
 - Criar/achar uma interface para o controle do carro.
 
 ## Concluído
 
-- Conectar o Bluetooth do ESP32 com sucesso.
-- interface achada e testada(RemoteXY).
+- Conectar o Wi-fi do ESP32 com sucesso.
+- interface achada e testada(criada com IA).
 
 ## Não concluído
 
@@ -114,6 +114,7 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 ## Problemas ou impedimentos
 
 - Dificuldades em achar uma interface boa.
+- um dos motores não funciona bem.
 
 ## Decisões técnicas da semana
 
