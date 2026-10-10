@@ -49,10 +49,8 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Próximas ações
 
-- Medir a corrente dos motores.
-- Definir o driver de potência.
 - Iniciar montagem mecânica.
-- Implementar recepção dos comandos UDP.
+- 
 
 ---
 
@@ -100,12 +98,12 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 ## Planejado
 - Programação feita com os comandos essenciais para o funcionamento básico do carrinho.
 - Conectar o Wi-fi do ESP32.
-- Criar/achar uma interface para o controle do carro.
+- Criar/achar uma interface provisória para o controle do carro.
 
 ## Concluído
 
 - Conectar o Wi-fi do ESP32 com sucesso.
-- interface achada e testada(criada com IA).
+- Interface achada e testada(criada com IA).
 
 ## Não concluído
 
@@ -114,7 +112,7 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 ## Problemas ou impedimentos
 
 - Dificuldades em achar uma interface boa.
-- um dos motores não funciona bem.
+- Um dos motores não funciona bem.
 
 ## Decisões técnicas da semana
 
@@ -126,6 +124,7 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 |---|---|
 | ____________________ | ____________________ |
 
+
 ## Próximas ações
 
 - Integrar uma bateria ao circuito.
@@ -136,7 +135,8 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Planejado
 
-- ____________________
+- Fazer ajustes no carrinho.
+- Organizar a posição dos componentes.
 
 ## Concluído
 
