@@ -32,14 +32,12 @@ Descrever, de forma objetiva, a solução escolhida pela equipe.
 
 Exemplo:
 
-- arquitetura de tração: diferencial com dois motores;
-- direção: ____________________;
-- controlador principal: ____________________;
-- driver de motores: ____________________;
-- câmera embarcada: ____________________;
-- estratégia de alimentação: ____________________;
-- sensores adicionais, se houver: ____________________;
-- recursos de automação, se houver: ____________________.
+- Arquitetura de tração: diferencial com dois motores;
+- Direção: Horizontal (paralela ao chão);
+- Controlador principal: página de WEB com controle;
+- Driver de motores: ponte H;
+- Câmera embarcada: ?;
+- Estratégia de alimentação: Baterias de Íon-lítio Cilíndrica - 7.4V;
 
 ---
 
@@ -47,16 +45,16 @@ Exemplo:
 
 Inserir aqui um diagrama da arquitetura do sistema ou um link para o arquivo correspondente em `docs/arquitetura/`.
 
-Exemplo de organização:
 
 ```text
-Volante da organização
+[ Volante / Controle (Interface programada) ]
         |
-        | UDP
+        | UDP (Via Wi-Fi / Baixa latência)
         v
       ESP32
         |
-        +--> controle dos motores
+        -----------------------+--> controle dos motores
+
         +--> sensores
         +--> atuadores
         |
