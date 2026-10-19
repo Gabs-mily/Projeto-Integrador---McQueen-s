@@ -135,34 +135,46 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Planejado
 
-- Fazer ajustes no carrinho.
+- Fazer ajustes finos no carrinho antes da avaliação.
 - Organizar a posição dos componentes.
+- Preparar toda a documentação técnica.
+- Fazer com que o carrinho funcione corretamente.
+  
 
 ## Concluído
 
-- ____________________
+- Ajustes finos realizados.
+- Componentes organizados e fixados no chassi. 
 
 ## Não concluído
 
-- ____________________
+- Carrinho não funciona corretamente.
+- Finalização da documentação técnica.
+  
 
 ## Problemas ou impedimentos
 
-- ____________________
+- A roda direita do nosso carrinho estava girando somente para trás, assim, impedindo que o carrinho andasse para frente em sua tragetória normal.
+- Alguns cabos que antes já estavam soldados começaram a se soltar e a prejudicar a comunicação com os componentes.
 
 ## Decisões técnicas da semana
 
-- ____________________
+- Soldar novamente os jumpers.
+- Prender a bateria e alguns outros componentes que estavam posicionados no chassi com fita isolante.
+- Uso de isopor na parte de baixo da Ponte H, tanto para melhor fixação, quanto para que o chassi não ficasse aranhado ao decorrer dos testes.
 
 ## Testes realizados
 
 | Teste | Resultado |
 |---|---|
-| ____________________ | ____________________ |
+| Interação da página de controle para movimento das rodas | Roda direita não funciona em um dois sentidos  |
+| Condutividade dos fios | Todos conduzindo perfeitamente |
+
 
 ## Próximas ações
 
-- ____________________
+- Seguir atualizando a documentação técnica.
+- Novos testes dos motores sem a Ponte H.
 
 ---
 
