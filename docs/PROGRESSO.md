@@ -178,29 +178,33 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ---
 
-# Semana 5 — 14/10/2026 a 16/10/2026
+# Semana 5 — 14/10/2026 a 20/10/2026
 
 ## Planejado
 
-- Preparar a demonstração mínima para a Avaliação de Progresso 1.
+- Preparar a demonstração mínima para a 1ª Avaliação com o orientador.
 - Revisar a documentação do repositório.
+- Resolver o problema da roda da semana anterior.
 - Comparar o cronograma planejado com o desenvolvimento realizado.
 
 ## Concluído
 
-- ____________________
+- Demonstração mínima preparada.
+- Revisão da documentação do repositório.
+- Problema da roda resolvido.
 
 ## Não concluído
 
-- ____________________
+- Comparação do cronograma planejado com o desevolvido até o momento.
 
 ## Problemas ou impedimentos
 
-- ____________________
+- Avaliação com o orientador adiantada para o dia 20/10, o que nos fez reorganizar a agenda.
+  
 
 ## Decisões técnicas da semana
 
-- ____________________
+- Trocar as portas onde estavam conectadas as entradas "IN3" e "IN4" da ponte H até o ESP32, resolvendo o problema se sentido da roda direita que antes só girava para trás.
 
 ## Demonstração preparada para a AP1
 
