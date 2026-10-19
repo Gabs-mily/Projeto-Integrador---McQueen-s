@@ -28,10 +28,6 @@ Desenvolver um veículo terrestre em pequena escala para participação na Compe
 
 ## 2. Conceito da solução
 
-Descrever, de forma objetiva, a solução escolhida pela equipe.
-
-Exemplo:
-
 - Arquitetura de tração: diferencial com dois motores;
 - Direção: Horizontal (paralela ao chão);
 - Controlador principal: página de WEB com controle;
