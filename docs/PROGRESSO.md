@@ -58,27 +58,29 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Planejado
 
-- Montagem física do carrinho
-- Testes dos componentes eletrônicos
+- Montagem física do carrinho.
+- Testes dos componentes eletrônicos.
 - 
 
 ## Concluído
 
-- ____________________
-- ____________________
+- Montagem física do carrinho.
+- Testes dos componentes eletrônicos.
+- Escolha definitiva das rodas e motores.
 
 ## Não concluído
 
-- Escolha definitiva das rodas e motores.
+- ____________________
 
 ## Problemas ou impedimentos
 
 - Soldas dos cabos dos motores precisarão ser feitas.
-- Roda boba com dificuldades de encaixe no chassi
+- Roda boba com dificuldades de encaixe no chassi.
+- Parte dos componentes com defeito no funcionamento.
 
 ## Decisões técnicas da semana
 
-- 
+- Troca de componentes (ponte H, cabos jumper...) para verificar onde era a falha.
 
 ## Testes realizados
 
@@ -88,7 +90,7 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Próximas ações
 
-- ____________________
+- Testar carrinho e planejar uma carroceria leve para o carrinho.
 - ____________________
 
 ---
