@@ -90,7 +90,7 @@ Este arquivo deve registrar, de forma objetiva, o andamento semanal do projeto. 
 
 ## Próximas ações
 
-- Testar carrinho e planejar uma carroceria leve para o carrinho.
+- Testar e planejar uma carroceria leve para o carrinho.
 - ____________________
 
 ---
