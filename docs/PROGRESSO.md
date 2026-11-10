@@ -258,6 +258,7 @@ Descrever qual subsistema ou conjunto de subsistemas será demonstrado na bancad
 ## Problemas ou impedimentos
 
 - Fio do PWM com mal contato
+- Apresentação das Biomaket's pela disciplina de Biologia
 
 ## Decisões técnicas da semana
 
@@ -272,10 +273,73 @@ Descrever qual subsistema ou conjunto de subsistemas será demonstrado na bancad
 
 ## Próximas ações
 
-- Aumentar a potência dos motores 
+- Aumentar a potência dos motores
+- 
 
-Semana 7 — 28/10/2026 a 03/11/2026
+## Semana 7 — 28/10/2026 a 03/11/2026
 
 ## Planejado
 - Designer externo
+- Estratégias para melhor desempenho do carrinho
+- Troca de bateria
+
+## Concluído
+- troca de bateria
+
+## Não concluído
+- Designer externo
+
+## Problemas e impedimentos
+- Bateria descarregou
+
+## Decisão técnica da semana
+-Trocar bateria
+
+## Testes realizados
+
+| Teste | Resultado |
+| Teste da bateria | Valor individual de 3V|
+
+## Próximas ações
+
+- Revisar a documentação para a 2ª Avaliação
+- Rodas sincronizadas
+
+
+## Semana 8 — 04/11/2026 a 10/11/2026
+
+## Planejado
+- Preparar a demonstração mínima para a 1ª Avaliação com o orientador.
+- Revisar a documentação do repositório.
+- Comparar o cronograma planejado com o desenvolvimento realizado.
+
+
+## Concluído
+- Demonstração mínima preparada.
+- Revisão da documentação do repositório.
+
+## Não concluído 
+-Comparação do cronograma planejado com o desevolvido até o momento.
+
+## Problemas e impedimentos da semana
+- Prova do Enem que que inviabilizou encontros produtivos
+
+## Decisão técnica da semana 
+- Trocar bateria
+- Acréscimo do Regulador de tensão
+- Aumento da tensão do circuito
+
+
+## Testes realizados
+
+| Teste  | Resultado |
+| Teste de potência dos motores | Motor mais veloz|
+
+## Próximas ações
+- Modelar novo chassi para 4 rodas, que por consequência nos fará modificar todo o circuito
+- Iniciar novos testes
+- Configurar o código para o volante 
+
+ 
+
 Exibindo PROGRESSO_exemplo.md…
