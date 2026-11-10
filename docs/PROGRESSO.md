@@ -216,61 +216,66 @@ Descrever qual subsistema ou conjunto de subsistemas será demonstrado na bancad
 
 ### Entregas concluídas
 
-- ____________________
+- Carrinho funcionando
+- Programação rodando normalmente
 
 ### Entregas parcialmente concluídas
 
-- ____________________
+- Parte física 
 
 ### Entregas não concluídas
 
-- ____________________
+- Esquema elétrico
 
 ### Principais alterações em relação ao planejamento original
 
-- ____________________
+- Alteração no código
+- Remoção das plaquinhas de MDF que serviam de apoio para os motores\rodas
 
 ### Justificativas
 
-- ____________________
+- Algumas estavam danificadas devido aos esforços ao longo do processo
 
 ---
 
-# Modelo para semanas posteriores
+# Semana 6 — 21/10/2026 a 27/10/2026
 
-Copiar o bloco abaixo sempre que uma nova semana for iniciada.
-
-```markdown
-# Semana X — DD/MM/AAAA a DD/MM/AAAA
 
 ## Planejado
 
-- ...
+- Reavaliar o carrinho
+- Resolver problema de direção das Rodas (sincronização)
 
 ## Concluído
 
-- ...
+- Reavaliação baseada nas orientações do professor
+- Sincronização das rodas
 
 ## Não concluído
 
-- ...
+- 
 
 ## Problemas ou impedimentos
 
-- ...
+- Fio do PWM com mal contato
 
 ## Decisões técnicas da semana
 
-- ...
+- Refazer as soldas
+- Troca de cabos com problema 
 
 ## Testes realizados
 
 | Teste | Resultado |
-|---|---|
-| ... | ... |
+|Sincronia das rodas| Rodas sincronizadas|
+| Continuidade dos fios | Continuidade atestada |
 
 ## Próximas ações
 
-- ...
-```
+- Aumentar a potência dos motores 
+
+Semana 7 — 28/10/2026 a 03/11/2026
+
+## Planejado
+- Designer externo
 Exibindo PROGRESSO_exemplo.md…
