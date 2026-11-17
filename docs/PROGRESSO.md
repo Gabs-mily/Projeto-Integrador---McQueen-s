@@ -319,7 +319,7 @@ Descrever qual subsistema ou conjunto de subsistemas será demonstrado na bancad
 - Revisão da documentação do repositório.
 
 ## Não concluído 
--Comparação do cronograma planejado com o desevolvido até o momento.
+-
 
 ## Problemas e impedimentos da semana
 - Prova do Enem que que inviabilizou encontros produtivos
@@ -341,5 +341,76 @@ Descrever qual subsistema ou conjunto de subsistemas será demonstrado na bancad
 - Configurar o código para o volante 
 
  
+## Semana 9 — 11/11/2026 a 17/11/2026
+
+## Planejado
+- Realizar testes cronometrados
+- Finalizar o código
+- Adicionar o servo motor
+- Ajustes para melhor desempenho do carrinho
+
+
+## Concluído
+- Servo motores adicionados
+- Ajustes realizados e novas baterias implementadas
+
+## Não concluído 
+- Realizar testes cronometrados
+- Finalizar o código
+
+## Problemas e impedimentos da semana
+- Uma das rodas inferiores não funciona
+- 
+
+## Decisão técnica da semana 
+- 
+
+
+## Testes realizados
+
+| Teste  | Resultado |
+| Teste de potência dos motores | Motor mais veloz|
+
+## Próximas ações
+- Modelar novo chassi para 4 rodas, que por consequência nos fará modificar todo o circuito
+- Iniciar novos testes
+- Configurar o código para o volante
+
+## Próximas ações
+- Modelar novo chassi para 4 rodas, que por consequência nos fará modificar todo o circuito
+- Iniciar novos testes
+- Configurar o código para o volante 
+
+ 
+## Semana 10 — 18/11/2026 a 24/11/2026
+
+## Planejado
+- Melhorar o código para o funcionamento do carro
+- Produção de novo chassi
+- Organização dos componentes sobre a plaquinha (chassi)
+- Realizar troca das baterias 
+
+## Concluído
+- 
+
+## Não concluído 
+- 
+
+## Problemas e impedimentos da semana
+- 
+- 
+
+## Decisão técnica da semana 
+- 
+
+
+## Testes realizados
+
+| Teste  | Resultado |
+|  |  |
+
+## Próximas ações
+- 
+
 
 Exibindo PROGRESSO_exemplo.md…
