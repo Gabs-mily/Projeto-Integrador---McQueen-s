@@ -75,26 +75,26 @@ Atualizar esta seção ao longo do projeto.
 
 ### Concluído
 
-- [ ] Definição da arquitetura geral
-- [ ] Projeto mecânico inicial
+- [X] Definição da arquitetura geral
+- [X] Projeto mecânico inicial
 - [ ] Diagrama elétrico inicial
-- [ ] Comunicação com o sistema da organização
-- [ ] Controle dos motores em bancada
+- [X] Comunicação com o sistema da organização
+- [x] Controle dos motores em bancada
 - [ ] Integração mecânica
-- [ ] Integração eletroeletrônica
-- [ ] Teste do veículo em movimento
+- [X] Integração eletroeletrônica
+- [X] Teste do veículo em movimento
 - [ ] Integração da câmera
 - [ ] Outros: ____________________
 
 ### Em desenvolvimento
 
-Descrever as atividades em andamento.
+- Carroceria e chassi novos (já os oficiais).
 
 ### Pendências principais
 
-Descrever os principais pontos ainda não resolvidos.
+- Testes com o Volante. Para isso, estamos realizando modificações no código.
+- Testes cronometrados.
 
----
 
 ## 5. Planejamento
 
